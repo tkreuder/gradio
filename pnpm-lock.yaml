@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -237,10 +237,10 @@ importers:
   js/_spaces-test:
     dependencies:
       '@gradio/client':
-        specifier: workspace:^0.1.4
+        specifier: workspace:^0.2.0
         version: link:../../client/js
       '@gradio/form':
-        specifier: workspace:^0.0.2
+        specifier: workspace:^0.1.0
         version: link:../form
       '@gradio/theme':
         specifier: workspace:^0.0.2
@@ -340,7 +340,7 @@ importers:
         specifier: workspace:^0.0.2
         version: link:../atoms
       '@gradio/audio':
-        specifier: workspace:^0.1.0
+        specifier: workspace:^0.1.1
         version: link:../audio
       '@gradio/button':
         specifier: workspace:^0.0.2
@@ -352,7 +352,7 @@ importers:
         specifier: workspace:^0.0.2
         version: link:../chatbot
       '@gradio/client':
-        specifier: workspace:^0.1.4
+        specifier: workspace:^0.2.0
         version: link:../../client/js
       '@gradio/code':
         specifier: workspace:^0.0.2
@@ -361,13 +361,13 @@ importers:
         specifier: workspace:^0.0.2
         version: link:../file
       '@gradio/form':
-        specifier: workspace:^0.0.2
+        specifier: workspace:^0.1.0
         version: link:../form
       '@gradio/gallery':
-        specifier: workspace:^0.1.0
+        specifier: workspace:^0.2.0
         version: link:../gallery
       '@gradio/highlighted-text':
-        specifier: workspace:^0.0.2
+        specifier: workspace:^0.1.0
         version: link:../highlighted-text
       '@gradio/html':
         specifier: workspace:^0.0.1
