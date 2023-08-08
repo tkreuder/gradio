@@ -25,7 +25,7 @@ import requests
 from huggingface_hub import SpaceStage
 from websockets.legacy.protocol import WebSocketCommonProtocol
 
-API_URL = "api/predict/"
+API_URL = "api/predict"
 WS_URL = "queue/join"
 UPLOAD_URL = "upload"
 CONFIG_URL = "config"
